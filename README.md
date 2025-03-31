@@ -20,7 +20,7 @@ Ce projet consiste en la copie fidèle d'une maquette web, permettant de travail
 
 1. Clonez ce dépôt ou téléchargez les fichiers :
    ```sh
-   git clone https://github.com/votre-utilisateur/mntn-duplicate.git
+   git clone https://github.com/OswaldPro/Duplicate-Project-MNTN.git
    ```
 2. Ouvrez le fichier `index.html` dans votre navigateur.
 
