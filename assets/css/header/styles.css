@@ -1,0 +1,31 @@
+header {
+    width: 100vw;
+    height: 140px;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+.header-nav {
+    width: 98%;
+    display: flex;
+    justify-content: space-between;
+	padding: 6rem 8rem;
+}
+
+nav {
+	text-align: center;
+	width: 20%;
+}
+
+.navlink {
+    display: inline-block;
+	padding: 0 2rem;
+}
+
+
+
+.account a, .account img {
+	display: inline-block;
+    vertical-align: middle;
+}

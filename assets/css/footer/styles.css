@@ -1,0 +1,32 @@
+footer li {
+  margin: 1em 0;
+}
+
+.col-1 {
+  display: inline-block;
+  width:  68%;
+  vertical-align: top;
+}
+
+.col-1 p:nth-child(2) {
+  max-width: 23%;
+  margin-top: 2em;
+}
+
+.copyright {
+  margin-top: 8em;
+}
+
+
+
+.col-2 {
+  display: inline-block;
+  width: 20%;
+  vertical-align: top;
+}
+
+.col-3 {
+  display: inline-block;
+  padding-left: 2rem;
+  vertical-align: top;
+}
